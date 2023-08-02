@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:rating="clr-namespace:Syncfusion.Maui.Inputs;assembly=Syncfusion.Maui.Inputs"
+             x:Class="SfRatingSample.MainPage">
+
+    <ContentPage.Content>
+        <rating:SfRating ItemCount="5"
+                         ItemSpacing="20"/>
+    </ContentPage.Content>
+
+</ContentPage>
