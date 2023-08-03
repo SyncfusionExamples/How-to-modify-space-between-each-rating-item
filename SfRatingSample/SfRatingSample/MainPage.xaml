@@ -5,7 +5,7 @@
              x:Class="SfRatingSample.MainPage">
 
     <ContentPage.Content>
-        <rating:SfRating ItemCount="5"
+        <rating:SfRating Value="3"
                          ItemSpacing="20"/>
     </ContentPage.Content>
 
