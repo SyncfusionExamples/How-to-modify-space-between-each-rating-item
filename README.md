@@ -53,7 +53,7 @@ public MainPage()
 ```
 ## How to run this application?
 
-To run this application, you need to first clone the How-to-create-chip-control-example-in-Xamarin.Forms repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
+To run this application, you need to first clone the How-to-modify-space-between-each-rating-item repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
 
 ## <a name="troubleshooting"></a>Troubleshooting ##
 ### Path too long exception
