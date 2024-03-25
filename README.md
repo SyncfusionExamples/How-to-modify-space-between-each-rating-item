@@ -29,7 +29,7 @@ public MainPage()
 }
 ```
 
-# How to modify space between each rating item
+## How to modify space between each rating item
 
 To modify the space between each rating item in a .NET MAUI SfRating control, you can use the ItemSpacing property.
 
